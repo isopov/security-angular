@@ -1,0 +1,2 @@
+A modified version of https://spring.io/guides/tutorials/spring-security-and-angular-js/ with single application, and form-based login.
+
